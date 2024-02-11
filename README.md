@@ -7,5 +7,10 @@ What the title says. This is a basic dark theme for [DNS Leak Test](https://dnsl
 
 * Logo sucks ass. I can't easily fix that and I cbf. PR welcome, obvs.
 
+
+### Installation
+
+This works in Firefox as of v122, idfk about Chrome or Edge. YMMV. Drop and save it in [Stylus](https://add0n.com/stylus.html).
+
 # License
 [AGPLv3](LICENSE)
