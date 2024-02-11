@@ -1,0 +1,45 @@
+.navbar {
+    background-color: #222028;
+}
+
+.navbar li a {
+    color: #a6a1c1 !important;
+}
+
+body {
+    background-color: #16141c;
+    color: #a6a1c1;
+}
+
+
+div.footer {
+    background-color: #222028;
+    color: #a6a1c1;
+}
+
+.standard, .enhanced {
+  background-color: #897ea8;
+  color: #181620;
+  border: 2px solid #24212c;
+  border-radius: 0px;
+}
+
+.logo {
+  background-color: #564d84;
+  border-radius: 22px 2px;
+}
+
+.whats-the-difference {
+  padding-top: 6px;
+  
+}
+.whats-the-difference a, p>a {
+  color: #ddd;
+}
+
+
+th, tr {
+    background-color: #222028;
+    color: #bac;
+    border: 1px solid #55506d;
+}
